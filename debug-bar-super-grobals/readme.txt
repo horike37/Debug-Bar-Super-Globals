@@ -13,7 +13,7 @@ Displays Super Global valiables for the current request.Like $_POST, $_GET, and 
 
 == Installation ==
 
-1. Upload `trust-form` to the `/wp-content/plugins/` directory.
+1. Upload `debug-bar-super-globals` to the `/wp-content/plugins/` directory.
 2. Activate the plugin through the 'Plugins' menu in WordPress.
 
 == Screenshots ==
